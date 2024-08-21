@@ -52,7 +52,7 @@ header .fix #top li a {
   text-decoration: none;
 }
 header .fix #top li:first-child::after {
-  content: url("/img/down.png");
+  content: url("img/down.png");
   margin-left: 5px;
 }
 header .fix.scrolled {
@@ -77,7 +77,7 @@ main {
   margin: 0 auto;
 }
 main #banner p {
-  background: url("/img/main_bg.png");
+  background: url("img/main_bg.png");
   background-size: 100% 100%;
   width: 100%;
   height: 800px;
@@ -238,7 +238,7 @@ main .swiper-button-next {
 
 #ele2 {
   float: left;
-  background: url("/img/ele2.png") no-repeat;
+  background: url("img/ele2.png") no-repeat;
   width: 531px;
   height: 251px;
   position: relative;
