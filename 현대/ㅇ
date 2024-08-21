@@ -1,0 +1,8 @@
+        <section id="car" class="slider">
+            <ul class="swiper-wrapper">
+                <li><a href="#" class="view"><img src="/img/car1.png" alt="그랜저"></a><span>GRANDEUR<p>Outclass GRANDEUR</p></span></li>
+                <li><a href="#" class="view"><img src="/img/car2.png" alt="그랜저"></a><span>AVANTE<p>지금, 더 매력적인</p></span></li>
+                <li><a href="#" class="view"><img src="/img/car3.png" alt="그랜저"></a><span>The new IONIQ 5<p>내가 선택한 단 하나의 전기차</p></span></li>
+                <li><a href="#" class="view"><img src="/img/car4.png" alt="그랜저"></a><span>CASPER<p>case by CASPER</p></span></li>
+            </ul>
+        </section>
